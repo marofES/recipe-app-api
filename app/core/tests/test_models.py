@@ -1,8 +1,8 @@
 """
 Tests for models.
 """
-import email
-import imp
+import email  # noqa
+import imp  # noqa
 from django.test import TestCase
 from django.contrib.auth import get_user_model
 
